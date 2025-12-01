@@ -4,7 +4,6 @@ Official YACHTNEEDS Marketplace profile repository.
 Online marketplace for yacht supplies, superyacht equipment, marine parts, and crew essentials.
 
 🌐 **Website:** https://yachtneeds.com  
-📦 **Marketplace:** https://yachtneeds.com/marketplace
 
 ---
 
